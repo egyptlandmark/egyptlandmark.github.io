@@ -1,3 +1,26 @@
 #villasheadermain{position:relative !important;}
 #wb_villas-grid-main{position:relative !important;}
 #villasfootermain{position:relative !important;}
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#villasfootermain{
+  margin: 0;
+  padding: 20px;
+  background: #f0f0f0;
+}
+
+html, body {
+  height: 100%;
+}
+.wrapper {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+main {
+  flex: 1; /* pushes footer down only if content is short */
+}
+
