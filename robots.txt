@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://egyptlandmark.github.io/sitemap.xml
+
