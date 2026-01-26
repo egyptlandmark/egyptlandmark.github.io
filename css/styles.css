@@ -10,4 +10,4 @@
 #Carousel1 .carousel-control {
     display: flex;
     position: absolute !important;}
-
+.carousel-control{position:relative !important;}
