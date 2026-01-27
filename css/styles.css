@@ -1,5 +1,5 @@
 
-#villasheadermain{position:relative !important;}
+div#villasheadermain{position:relative !important;}
 #wb_villas-grid-main{position:relative !important;top: 600 !important;}
 #villasfootermain{position:relative !important;}
 #villasfootermain {top: 0px Important;}
@@ -7,3 +7,4 @@
 #wb_LayoutGrid1-en{position:relative !important;}
 #wb_villas-grid-main-en{position:relative !important;}
 #villas-grid-main{position:relative !important;}
+
