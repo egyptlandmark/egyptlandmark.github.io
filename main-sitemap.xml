@@ -99,4 +99,15 @@
 		<xhtml:link rel="alternate" href="https://egyptlandmark.github.io/cairo-villas/1/en/villa-for-sale-in-cairo-en-01.html" hreflang="en-us"/>
 		<xhtml:link rel="alternate" href="https://egyptlandmark.github.io/cairo-villas/1/ar/villa-for-sale-in-cairo-ar-01.html" hreflang="ar-eg"/>
 	</url>
+		<url>
+		<loc>https://egyptlandmark.github.io/new-cairo-villas-compounds/1/ar/villa-for-sale-in-compound-in-new-cairo-ar-01.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.github.io/new-cairo-villas-compounds/1/ar/villa-for-sale-in-compound-in-new-cairo-ar-01.html" hreflang="ar-eg"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.github.io/new-cairo-villas-compounds/1/en/villa-for-sale-in-compound-in-new-cairo-en-01.html" hreflang="en-us"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark.github.io/new-cairo-villas-compounds/1/en/villa-for-sale-in-compound-in-new-cairo-en-01.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.github.io/new-cairo-villas-compounds/1/en/villa-for-sale-in-compound-in-new-cairo-en-01.html" hreflang="en-us"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.github.io/new-cairo-villas-compounds/1/ar/villa-for-sale-in-compound-in-new-cairo-ar-01.html" hreflang="ar-eg"/>
+	</url>
 </urlset>
+
