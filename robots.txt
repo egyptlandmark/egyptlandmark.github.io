@@ -1,0 +1,16 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://egyptlandmark.pages.dev/0-main-sitemap.xml
+Sitemap: https://egyptlandmark.pages.dev/sitemap-products.xml
+Sitemap: https://egyptlandmark.pages.dev/1-villa-sitemap.xml
+Sitemap: https://egyptlandmark.pages.dev/2-lands-sitemap.xml
+Sitemap: https://egyptlandmark.pages.dev/3-lands-sitemap.xml
+Sitemap: https://egyptlandmark.pages.dev/4-commercials-sitemap.xml
+Sitemap: https://egyptlandmark.pages.dev/5-administrative-sitemap.xml
+Sitemap: https://egyptlandmark.pages.dev/6-industrial-sitemap.xml
+Sitemap: https://egyptlandmark.pages.dev/7-medical-sitemap.xml
+
+
+
+
