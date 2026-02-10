@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://egyptlandmark.pages.dev/sitemap-total.xml
+Sitemap: https://egyptlandmark.pages.dev/sitemap.xml
