@@ -5,7 +5,7 @@
       xmlns:xhtml="http://www.w3.org/1999/xhtml"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-      <url>
+	<url>
 		<loc>https://egyptlandmark.pages.dev/</loc>
 		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/index.html" hreflang="ar-eg"/>
 		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/index-en.html" hreflang="en-us"/>
@@ -51,9 +51,6 @@
 		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/villas-for-sale-in-egypt-about-en.html" hreflang="en-us"/>
 	</url>
 		<url>
-		<loc>https://egyptlandmark.pages.dev/master-en.html</loc>
-	</url>
-	<url>
 		<loc>https://egyptlandmark.pages.dev/index-en.html</loc>
 		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/index.html" hreflang="ar-eg"/>
 		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/index-en.html" hreflang="en-us"/>
