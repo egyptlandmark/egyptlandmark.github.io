@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <sitemap>
+      <loc>https://egyptlandmark.pages.dev/0-main-sitemap.xml</loc>
+   </sitemap>
+   <sitemap>
+      <loc>https://egyptlandmark.pages.dev/1-villa-sitemap.xml</loc>
+   </sitemap>
+      <sitemap>
+      <loc>https://egyptlandmark.pages.dev/2-lands-sitemap.xml</loc>
+   </sitemap>
+      <sitemap>
+      <loc>https://egyptlandmark.pages.dev/3-lands-sitemap.xml</loc>
+   </sitemap>
+      <sitemap>
+      <loc>https://egyptlandmark.pages.dev/4-commercials-sitemap.xml</loc>
+   </sitemap>
+      <sitemap>
+      <loc>https://egyptlandmark.pages.dev/5-administrative-sitemap.xml</loc>
+   </sitemap>
+      <sitemap>
+      <loc>https://egyptlandmark.pages.dev/6-industrial-sitemap.xml</loc>
+   </sitemap>
+      <sitemap>
+      <loc>https://egyptlandmark.pages.dev/7-medical-sitemap.xml</loc>
+   </sitemap>
+</sitemapindex>
