@@ -7,8 +7,8 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 	<url>
 		<loc>https://egyptlandmark.pages.dev/</loc>
-		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/index.html" hreflang="ar-eg"/>
-		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/index-en.html" hreflang="en-us"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev" hreflang="ar-eg"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev" hreflang="en-us"/>
 	</url>
 	<url>
 		<loc>https://egyptlandmark.pages.dev/villas-for-sale-in-egypt-ar.html</loc>
@@ -165,15 +165,4 @@
 		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/new-cairo-villas-compounds/3d/villa-for-sale-in-compound-in-cairo-03d-en.html" hreflang="en-us"/>
 		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/new-cairo-villas-compounds/3d/villa-for-sale-in-compound-in-cairo-03d-ar.html" hreflang="ar-eg"/>
 	</url>
-		<url>
-		<loc>https://egyptlandmark.pages.dev/new-cairo-villas-compounds/4b/villa-for-sale-in-compound-in-cairo-04b-ar.html</loc>
-		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/new-cairo-villas-compounds/4b/villa-for-sale-in-compound-in-cairo-04b-ar.html" hreflang="ar-eg"/>
-		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/new-cairo-villas-compounds/4b/villa-for-sale-in-compound-in-cairo-04b-en.html" hreflang="en-us"/>
-	</url>
-	<url>
-		<loc>https://egyptlandmark.pages.dev/new-cairo-villas-compounds/4b/villa-for-sale-in-compound-in-cairo-04b-en.html</loc>
-		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/new-cairo-villas-compounds/4b/villa-for-sale-in-compound-in-cairo-04b-en.html" hreflang="en-us"/>
-		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/new-cairo-villas-compounds/4b/villa-for-sale-in-compound-in-cairo-04b-ar.html" hreflang="ar-eg"/>
-	</url>
 </urlset>
-
