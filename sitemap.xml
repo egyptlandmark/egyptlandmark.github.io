@@ -4,106 +4,174 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<url>
-  <loc>https://egyptlandmark.pages.dev/</loc>
-</url>
-<url>
-  <loc>https://egyptlandmark.pages.dev/villas-for-sale-in-egypt-ar</loc>
-</url>
-<url>
-  <loc>https://egyptlandmark.pages.dev/palaces-for-sale-in-egypt-ar</loc>
-</url>
-<url>
-  <loc>https://egyptlandmark.pages.dev/index-en</loc>
-</url>
-<url>
-  <loc>https://egyptlandmark.pages.dev/villas-for-sale-in-new-cairo-egypt-ar</loc>
-</url>
-<url>
-  <loc>https://egyptlandmark.pages.dev/villas-for-sale-in-new-administrative-capital-egypt-ar</loc>
-</url>
-<url>
-  <loc>https://egyptlandmark.pages.dev/villas-for-sale-in-cairo-egypt-ar</loc>
-</url>
-<url>
-  <loc>https://egyptlandmark.pages.dev/villas-for-sale-in-fifth-settlement-in-egypt-ar</loc>
-</url>
-<url>
-  <loc>https://egyptlandmark.pages.dev/villas-for-sale-in-cairo-egypt-en</loc>
-</url>
-<url>
-  <loc>https://egyptlandmark.pages.dev/villas-for-sale-in-egypt-about-ar</loc>
-</url>
-<url>
-  <loc>https://egyptlandmark.pages.dev/villas-for-sale-in-egypt-contact-ar</loc>
-</url>
-<url>
-  <loc>https://egyptlandmark.pages.dev/rehab/1/ar/villas-for-sale-in-rehab-01</loc>
-</url>
-<url>
-  <loc>https://egyptlandmark.pages.dev/madinaty/1/ar/villas-for-sale-in-madinaty-01-ar</loc>
-</url>
-<url>
-  <loc>https://egyptlandmark.pages.dev/fs-a/vafsa-ar</loc>
-</url>
-<url>
-  <loc>https://egyptlandmark.pages.dev/cairo-villas/1/ar/villa-for-sale-in-cairo-ar-01</loc>
-</url>
-<url>
-  <loc>https://egyptlandmark.pages.dev/new-cairo-villas-compounds/1/ar/villa-for-sale-in-compound-in-new-cairo-ar-01</loc>
-</url>
-<url>
-  <loc>https://egyptlandmark.pages.dev/new-cairo-villas-compounds/2c/villa-for-sale-in-compound-in-cairo-02c-ar</loc>
-</url>
-<url>
-  <loc>https://egyptlandmark.pages.dev/new-cairo-villas-compounds/3d/villa-for-sale-in-compound-in-cairo-03d-ar</loc>
-</url>
-<url>
-  <loc>https://egyptlandmark.pages.dev/villas-for-sale-in-egypt-en</loc>
-</url>
-<url>
-  <loc>https://egyptlandmark.pages.dev/villas-for-sale-in-new-cairo-egypt-en</loc>
-</url>
-<url>
-  <loc>https://egyptlandmark.pages.dev/villas-for-sale-in-new-administrative-capital-egypt-en</loc>
-</url>
-<url>
-  <loc>https://egyptlandmark.pages.dev/villas-for-sale-in-fifth-settlement-in-egypt-en</loc>
-</url>
-<url>
-  <loc>https://egyptlandmark.pages.dev/palaces-for-sale-in-egypt-en</loc>
-</url>
-<url>
-  <loc>https://egyptlandmark.pages.dev/villas-for-sale-in-egypt-about-en</loc>
-</url>
-<url>
-  <loc>https://egyptlandmark.pages.dev/villas-for-sale-in-egypt-contact-en</loc>
-</url>
-<url>
-  <loc>https://egyptlandmark.pages.dev/rehab/1/en/villas-for-sale-in-rehab-eng-01</loc>
-</url>
-<url>
-  <loc>https://egyptlandmark.pages.dev/madinaty/1/en/villas-for-sale-in-madinaty-01-eng</loc>
-</url>
-<url>
-  <loc>https://egyptlandmark.pages.dev/fs-a/vafsa-en</loc>
-</url>
-<url>
-  <loc>https://egyptlandmark.pages.dev/cairo-villas/1/en/villa-for-sale-in-cairo-en-01</loc>
-</url>
-<url>
-  <loc>https://egyptlandmark.pages.dev/new-cairo-villas-compounds/1/en/villa-for-sale-in-compound-in-new-cairo-en-01</loc>
-</url>
-<url>
-  <loc>https://egyptlandmark.pages.dev/new-cairo-villas-compounds/2c/villa-for-sale-in-compound-in-cairo-02c-en</loc>
-</url>
-<url>
-  <loc>https://egyptlandmark.pages.dev/new-cairo-villas-compounds/3d/villa-for-sale-in-compound-in-cairo-03d-en</loc>
-</url>
-<url>
-  <loc>https://egyptlandmark.pages.dev/new-cairo-villas-compounds/4b/villa-for-sale-in-compound-in-cairo-04b-ar</loc>
-</url>
-<url>
-  <loc>https://egyptlandmark.pages.dev/new-cairo-villas-compounds/4b/villa-for-sale-in-compound-in-cairo-04b-en</loc>
-</url>
+	<url>
+		<loc>https://egyptlandmark.pages.dev/</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/index.html" hreflang="ar-eg"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/index-en.html" hreflang="en-us"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark.pages.dev/villas-for-sale-in-egypt-ar.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/villas-for-sale-in-egypt-ar.html" hreflang="ar-eg"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/villas-for-sale-in-egypt-en.html" hreflang="en-us"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark.pages.dev/palaces-for-sale-in-egypt-ar.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/palaces-for-sale-in-egypt-ar.html" hreflang="ar-eg"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/palaces-for-sale-in-egypt-en.html" hreflang="en-us"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark.pages.dev/villas-for-sale-in-cairo-egypt-ar.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/villas-for-sale-in-cairo-egypt-ar.html" hreflang="ar-eg"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/villas-for-sale-in-cairo-egypt-en.html" hreflang="en-us"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark.pages.dev/villas-for-sale-in-new-administrative-capital-egypt-ar.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/villas-for-sale-in-new-administrative-capital-egypt-ar.html" hreflang="ar-eg"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/villas-for-sale-in-new-administrative-capital-egypt-en.html" hreflang="en-us"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark.pages.dev/villas-for-sale-in-new-cairo-egypt-ar.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/villas-for-sale-in-new-cairo-egypt-ar.html" hreflang="ar-eg"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/villas-for-sale-in-new-cairo-egypt-en.html" hreflang="en-us"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark.pages.dev/villas-for-sale-in-fifth-settlement-in-egypt-ar.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/villas-for-sale-in-fifth-settlement-in-egypt-ar.html" hreflang="ar-eg"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/villas-for-sale-in-fifth-settlement-in-egypt-en.html" hreflang="en-us"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark.pages.dev/villas-for-sale-in-egypt-contact-ar.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/villas-for-sale-in-egypt-contact-ar.html" hreflang="ar-eg"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/villas-for-sale-in-egypt-contact-en.html" hreflang="en-us"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark.pages.dev/villas-for-sale-in-egypt-about-ar.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/villas-for-sale-in-egypt-about-ar.html" hreflang="ar-eg"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/villas-for-sale-in-egypt-about-en.html" hreflang="en-us"/>
+	</url>
+  	<url>
+		<loc>https://egyptlandmark.pages.dev/index-en.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/index.html" hreflang="ar-eg"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/index-en.html" hreflang="en-us"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark.pages.dev/villas-for-sale-in-egypt-en.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/villas-for-sale-in-egypt-ar.html" hreflang="ar-iq"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/villas-for-sale-in-egypt-en.html" hreflang="en-us"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark.pages.dev/palaces-for-sale-in-egypt-en.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/page-website-index-ar.html" hreflang="ar-eg"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/palaces-for-sale-in-egypt-en.html" hreflang="en-us"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark.pages.dev/villas-for-sale-in-cairo-egypt-en.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/villas-for-sale-in-cairo-egypt-ar.html" hreflang="ar-eg"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/villas-for-sale-in-cairo-egypt-en.html" hreflang="en-us"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark.pages.dev/villas-for-sale-in-new-cairo-egypt-en.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/villas-for-sale-in-new-cairo-egypt-ar.html" hreflang="ar-eg"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/villas-for-sale-in-new-cairo-egypt-en.html" hreflang="en-us"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark.pages.dev/villas-for-sale-in-new-administrative-capital-egypt-en.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/villas-for-sale-in-new-administrative-capital-egypt-ar.html" hreflang="ar-eg"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/villas-for-sale-in-new-administrative-capital-egypt-en.html" hreflang="en-us"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark.pages.dev/villas-for-sale-in-fifth-settlement-in-egypt-en.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/villas-for-sale-in-fifth-settlement-in-egypt-ar.html" hreflang="ar-eg"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/villas-for-sale-in-fifth-settlement-in-egypt-en.html" hreflang="en-us"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark.pages.dev/villas-for-sale-in-egypt-contact-en.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/villas-for-sale-in-egypt-contact-ar.html" hreflang="ar-eg"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/villas-for-sale-in-egypt-contact-en.html" hreflang="en-us"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark.pages.dev/villas-for-sale-in-egypt-about-en.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/villas-for-sale-in-egypt-about-ar.html" hreflang="ar-eg"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/villas-for-sale-in-egypt-about-en.html" hreflang="en-us"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark.pages.dev/rehab/1/ar/villas-for-sale-in-rehab-01.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/rehab/1/ar/villas-for-sale-in-rehab-01.html" hreflang="ar-eg"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/rehab/1/en/villas-for-sale-in-rehab-eng-01.html" hreflang="en-us"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark.pages.dev/rehab/1/en/villas-for-sale-in-rehab-eng-01.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/rehab/1/en/villas-for-sale-in-rehab-eng-01.html" hreflang="en-us"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/rehab/1/ar/villas-for-sale-in-rehab-01.html" hreflang="ar-eg"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark.pages.dev/madinaty/1/ar/villas-for-sale-in-madinaty-01-ar.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/madinaty/1/ar/villas-for-sale-in-madinaty-01-ar.html" hreflang="ar-eg"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/madinaty/1/en/villas-for-sale-in-madinaty-01-eng.html" hreflang="en-us"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark.pages.dev/madinaty/1/en/villas-for-sale-in-madinaty-01-eng.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/madinaty/1/en/villas-for-sale-in-madinaty-01-eng.html" hreflang="en-us"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/madinaty/1/ar/villas-for-sale-in-madinaty-01-ar.html" hreflang="ar-eg"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark.pages.dev/fs-a/vafsa-ar.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/fs-a/vafsa-ar.html" hreflang="ar-eg"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/fs-a/vafsa-en.html" hreflang="en-us"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark.pages.dev/fs-a/vafsa-en.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/fs-a/vafsa-en.html" hreflang="en-us"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/fs-a/vafsa-ar.html" hreflang="ar-eg"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark.pages.dev/cairo-villas/1/ar/villa-for-sale-in-cairo-ar-01.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/cairo-villas/1/ar/villa-for-sale-in-cairo-ar-01.html" hreflang="ar-eg"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/cairo-villas/1/en/villa-for-sale-in-cairo-en-01.html" hreflang="en-us"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark.pages.dev/cairo-villas/1/en/villa-for-sale-in-cairo-en-01.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/cairo-villas/1/en/villa-for-sale-in-cairo-en-01.html" hreflang="en-us"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/cairo-villas/1/ar/villa-for-sale-in-cairo-ar-01.html" hreflang="ar-eg"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark.pages.dev/new-cairo-villas-compounds/1/ar/villa-for-sale-in-compound-in-new-cairo-ar-01.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/new-cairo-villas-compounds/1/ar/villa-for-sale-in-compound-in-new-cairo-ar-01.html" hreflang="ar-eg"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/new-cairo-villas-compounds/1/en/villa-for-sale-in-compound-in-new-cairo-en-01.html" hreflang="en-us"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark.pages.dev/new-cairo-villas-compounds/1/en/villa-for-sale-in-compound-in-new-cairo-en-01.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/new-cairo-villas-compounds/1/en/villa-for-sale-in-compound-in-new-cairo-en-01.html" hreflang="en-us"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/new-cairo-villas-compounds/1/ar/villa-for-sale-in-compound-in-new-cairo-ar-01.html" hreflang="ar-eg"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark.pages.dev/new-cairo-villas-compounds/2c/villa-for-sale-in-compound-in-cairo-02c-ar.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/new-cairo-villas-compounds/2c/villa-for-sale-in-compound-in-cairo-02c-ar.html" hreflang="ar-eg"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/new-cairo-villas-compounds/2c/villa-for-sale-in-compound-in-cairo-02c-en.html" hreflang="en-us"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark.pages.dev/new-cairo-villas-compounds/2c/villa-for-sale-in-compound-in-cairo-02c-en.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/new-cairo-villas-compounds/2c/villa-for-sale-in-compound-in-cairo-02c-en.html" hreflang="en-us"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/new-cairo-villas-compounds/2c/villa-for-sale-in-compound-in-cairo-02c-ar.html" hreflang="ar-eg"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark.pages.dev/new-cairo-villas-compounds/3d/villa-for-sale-in-compound-in-cairo-03d-ar.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/new-cairo-villas-compounds/3d/villa-for-sale-in-compound-in-cairo-03d-ar.html" hreflang="ar-eg"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/new-cairo-villas-compounds/3d/villa-for-sale-in-compound-in-cairo-03d-en.html" hreflang="en-us"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark.pages.dev/new-cairo-villas-compounds/3d/villa-for-sale-in-compound-in-cairo-03d-en.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/new-cairo-villas-compounds/3d/villa-for-sale-in-compound-in-cairo-03d-en.html" hreflang="en-us"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/new-cairo-villas-compounds/3d/villa-for-sale-in-compound-in-cairo-03d-ar.html" hreflang="ar-eg"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark.pages.dev/new-cairo-villas-compounds/4b/villa-for-sale-in-compound-in-cairo-04b-ar.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/new-cairo-villas-compounds/4b/villa-for-sale-in-compound-in-cairo-04b-ar.html" hreflang="ar-eg"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/new-cairo-villas-compounds/4b/villa-for-sale-in-compound-in-cairo-04b-en.html" hreflang="en-us"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark.pages.dev/new-cairo-villas-compounds/4b/villa-for-sale-in-compound-in-cairo-04b-en.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/new-cairo-villas-compounds/4b/villa-for-sale-in-compound-in-cairo-04b-en.html" hreflang="en-us"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark.pages.dev/new-cairo-villas-compounds/4b/villa-for-sale-in-compound-in-cairo-04b-ar.html" hreflang="ar-eg"/>
+	</url>
 </urlset>
